@@ -7,7 +7,8 @@ Face Recognition with Transfer Learning
 - MATLAB R2019a
 - USB/Internal webcam
 ### DATABASE
-The database used is available at link https://fei.edu.br/~cet/facedatabase.html.In the dataset, there are 200 different young and middle-aged individuals and each image taken with 14 various perspective such as different orientation, brightness etc.
+The database used is available at link https://fei.edu.br/~cet/facedatabase.html
+</br></br>In the dataset, there are 200 different young and middle-aged individuals and each image taken with 14 various perspective such as different orientation, brightness etc.
 ### DATABASE PROCESSING 
 For extract unpractical images and testing images foldering.py can be used. After that _FaceDatabase file is created automatically.
 1. Put all images to database_processing\images

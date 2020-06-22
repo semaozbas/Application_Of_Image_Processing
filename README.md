@@ -16,9 +16,9 @@ For extract unpractical images and testing images foldering.py can be used. Afte
 ### GUI REGISTRATION 
 You can take your photos with GUI_REGISTRATION part. You must fill drive name part in GUI and system automatically creates a file with the name of the driver.
 ### TRAIN THE MODEL
-In this part you  can train data and save. In folder we upload already trained model. You can train your own model  with including your images. This is clearly explained in section GUI_REGISTRATION.
+In this part you  can train your own model and save it with including your images.This is clearly explained in section GUI_REGISTRATION.
 1. Train data
-2. Save trained model
+2. Store trained model trainedNet file.
 ### AUTORIZED DRIVER
 An authorized_users part for access drivers who  allow from system.You can use face_registration\driver.py for add/remove users.
 ### TEST THE MODEL 
